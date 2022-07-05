@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MySensorApp</string>
+    <string name="button_enable">enable</string>
+    <string name="button_disable">disable</string>
+    <string name="ps_data_test">距感数据：</string>
+</resources>
